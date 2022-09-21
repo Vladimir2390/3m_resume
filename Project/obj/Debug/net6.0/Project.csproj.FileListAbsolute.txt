@@ -1,0 +1,15 @@
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\bin\Debug\net6.0\Project.exe
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\bin\Debug\net6.0\Project.deps.json
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\bin\Debug\net6.0\Project.runtimeconfig.json
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\bin\Debug\net6.0\Project.dll
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\bin\Debug\net6.0\Project.pdb
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\obj\Debug\net6.0\Project.csproj.AssemblyReference.cache
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\obj\Debug\net6.0\Project.AssemblyInfo.cs
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\obj\Debug\net6.0\Project.dll
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\obj\Debug\net6.0\refint\Project.dll
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\obj\Debug\net6.0\Project.pdb
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
+H:\GeekBrains\3. С#\3. 3m_resume\repo\Project\obj\Debug\net6.0\ref\Project.dll
